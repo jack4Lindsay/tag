@@ -1,5 +1,5 @@
 # netGame
-A new online game!
+An online multiplayer game about sheep.
 
 NetGame originally was a practice range for network programming as I began to develop more network-based software.
 However, it has changed into something much more than that!
