@@ -2,7 +2,7 @@
 A new online game!
 
 NetGame originally was the expansion of my knowledge on networking as I began to develop more network-based software.
-However, it has changed into something much more than that now!
+However, it has changed into something much more than that!
 
 NetGame now has server and client programs, which do the following:
 
