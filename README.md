@@ -1,7 +1,7 @@
 # netGame
 A new online game!
 
-NetGame originally was the expansion of my knowledge on networking as I began to develop more network-based software.
+NetGame originally was a practice range for network programming as I began to develop more network-based software.
 However, it has changed into something much more than that!
 
 NetGame now has server and client programs, which do the following:
@@ -17,7 +17,7 @@ Server:
   A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in (only occurs when there is one or less
   people connected to the server, so that this process does not cause network latency)
   
-  You are able to put in 3 commands (so far): 0 - accept a new connection \ 1 - shutdown the server \ 2 - list current socket information
+  You are able to put in 3 commands (so far): 0 - accept a new connection \ 1 - shutdown the server \ 2 - list all current sockets and their IP addresses
   
   
 Client:
