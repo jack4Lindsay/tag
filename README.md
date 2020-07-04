@@ -26,7 +26,7 @@ Client:
 
   Run around as sheep!
   
-  meet up with friends in a very wide (65536x65536, may be expanded later) coordinate space, which is (soon to be) filled with like objects all generated randomly
+  meet up with friends in a very wide coordinate space, which is (soon to be) filled with objects all generated randomly
   
   change your skin (right now just the color of your wool) with the left and right arrow keys
   
