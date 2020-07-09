@@ -27,12 +27,12 @@ Client:
 
   Run around as sheep \ people \ objects with WASD
   
-  meet up with friends in a very wide coordinate space, which is speckled with NPCs all generated randomly but synchronously on all clients, so you all see the same things
+  Meet up with friends in a very wide coordinate space, which is speckled with NPCs all generated randomly but synchronously on all clients, so you all see the same things
   
-  change your outfit with the left and right arrow keys
+  Change your outfit with the left and right arrow keys
   
-  use each outfit's emotes by pressing 1 or 2 (more to come hopefully)
+  Use each outfit's emotes by pressing 1 or 2 (more to come hopefully)
   
-  press SHIFT to end your connection to the server and properly exit the application
+  Press SHIFT to end your connection to the server and properly exit the application
   
   The tagger is twice as fast as the other people, so gameplay is more dynamic
