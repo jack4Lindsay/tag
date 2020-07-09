@@ -31,6 +31,8 @@ Client:
   
   change your outfit with the left and right arrow keys
   
+  use each outfit's emotes by pressing 1 or 2 (more to come hopefully)
+  
   press SHIFT to end your connection to the server and properly exit the application
   
   The tagger is twice as fast as the other people, so gameplay is more dynamic
