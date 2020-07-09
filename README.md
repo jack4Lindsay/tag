@@ -1,5 +1,5 @@
 # netGame
-An online multiplayer game about sheep.
+An online multiplayer game of tag.
 
 NetGame originally was a practice range for network programming as I began to develop more network-based software.
 However, it has changed into something much more than that!
@@ -17,17 +17,20 @@ Server:
   A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in (only occurs when there is one or less
   people connected to the server, so that this process does not cause network latency)
   
-  You are able to put in 3 commands (so far): 0 - accept a new connection \ 1 - shutdown the server \ 2 - list all current sockets and their IP addresses
+  You are able to put in 4 commands (so far): 1 - shutdown the server \ 2 - list all current sockets and their IP addresses \ 3 - close a specific socket \ 4 - choose a
+  player at random to make the tagger and start the game
   
   
 Client:
 
   Initially you are prompted to input the IP of the server you wish to connect to, which you may type in and press ENTER to initiate a connection
 
-  Run around as sheep!
+  Run around as sheep \ people \ objects with WASD
   
-  meet up with friends in a very wide coordinate space, which is (soon to be) filled with objects all generated randomly
+  meet up with friends in a very wide coordinate space, which is speckled with NPCs all generated randomly but synchronously on all clients, so you all see the same things
   
-  change your skin (right now just the color of your wool) with the left and right arrow keys
+  change your outfit with the left and right arrow keys
   
   press SHIFT to end your connection to the server and properly exit the application
+  
+  The tagger is twice as fast as the other people, so gameplay is more dynamic
