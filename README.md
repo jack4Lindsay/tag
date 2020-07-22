@@ -1,7 +1,7 @@
 # Tag
 An online multiplayer game of tag.
 
-Tag (First named "netGame") originally was a practice range for network programming as I began to develop more network-based software.
+Tag (first named "netGame") originally was a practice range for network programming as I began to develop more network-based software.
 However, it has changed into something much more than that!
 
 Tag now has server and client programs, which do the following:
