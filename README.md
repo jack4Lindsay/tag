@@ -1,10 +1,10 @@
-# netGame
+# Tag
 An online multiplayer game of tag.
 
-NetGame originally was a practice range for network programming as I began to develop more network-based software.
+Tag (First named "netGame") originally was a practice range for network programming as I began to develop more network-based software.
 However, it has changed into something much more than that!
 
-NetGame now has server and client programs, which do the following:
+Tag now has server and client programs, which do the following:
 
 Server:
 
@@ -35,4 +35,4 @@ Client:
   
   Press SHIFT to end your connection to the server and properly exit the application
   
-  The tagger is twice as fast as the other people, so gameplay is more dynamic
+  The tagger is twice as fast as the other people, and the runners have abilites with a cooldown timer above them, so gameplay is more dynamic
