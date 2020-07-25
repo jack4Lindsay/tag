@@ -17,8 +17,13 @@ Server:
   - A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in (only occurs when there is one or less
   people connected to the server, so that this process does not cause network latency)
   
-  - You are able to put in 5 commands (so far): 1 - shutdown the server \ 2 - list all current sockets and their IP addresses \ 3 - close a specific socket \ 4 - choose a
-  player at random to make the tagger and start the game \ 5 - show the command list again
+  - You are able to put in 5 commands (so far): 
+  
+        1 - shutdown the server
+        2 - list all current sockets and their IP addresses
+        3 - close a specific socket
+        4 - choose a player at random to make the tagger and start the game
+        5 - show the command list again
   
   
 Client:
