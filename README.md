@@ -23,7 +23,8 @@ Server:
   
 Client:
 
-  Initially you are prompted to input the IP of the server you wish to connect to, which you may type in and press ENTER to initiate a connection
+  Initially you are prompted to input the IP of the server you wish to connect to, which you may type in and press ENTER to initiate a connection. If you wish to simply play
+  the game without anyone else, you can leave the line blank, press ENTER and explore on your own!
 
   Run around as sheep \ people \ objects with WASD
   
