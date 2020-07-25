@@ -19,11 +19,11 @@ Server:
   
   - You are able to put in 5 commands (so far): 
   
-        1 - shutdown the server
-        2 - list all current sockets and their IP addresses
-        3 - close a specific socket
-        4 - choose a player at random to make the tagger and start the game
-        5 - show the command list again
+        1: shutdown the server
+        2: list all current sockets and their IP addresses
+        3: close a specific socket
+        4: choose a player at random to make the tagger and start the game
+        5: show the command list again
   
   
 Client:
