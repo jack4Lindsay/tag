@@ -49,3 +49,15 @@ Client:
         2: invisiblity
         3: tiny-ness
         4: teleport to a random NPC on the map
+        
+        
+        
+We now have version numbers! Here are the notes on what has happened for each version put out:
+
+1.0:
+
+- First full version of Tag, complete with three map variants and a group of characters to choose from
+- Score system, if you are the tagger when the round ends, you lose a point. Each client starts with 3
+- Key to press to show more information, such as rules, abilities, controls
+- Much more refined server program that allows for better intake of other clients's data (helped immensely with latency)
+- Abilities only reset their amounts per round, instead of (accidentally) resetting whenever you became the tagger during any given game
