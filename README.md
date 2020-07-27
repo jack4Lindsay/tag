@@ -61,3 +61,4 @@ We now have version numbers! Here are the notes on what has happened for each ve
 - Key to press to show more information, such as rules, abilities, controls
 - Much more refined server program that allows for better intake of other clients's data (helped immensely with latency)
 - Abilities only reset their amounts per round, instead of (accidentally) resetting whenever you became the tagger during any given game
+- A secret...
