@@ -77,7 +77,8 @@ for proper combatibility, for example a server with version number 1.0 can be us
 
 1.2:
 
-- Fixed the game timer so that when it gets to single digits it doesn't display it weirdly (Props to TheLegitDrummer for pointing it out)
+- Fixed the game timer so that when it gets to single digits it doesn't display it weirdly (Props to TheLegitDrummer for pointing it out). Also made
+the game timer 4 minutes instead of 5, games felt a bit too long
 - Added 4 player skins and changed a few skins as well
 - Added a game over message for when the player runs out of lives. Also, the box that displays your score now says "Lives: #" rather than "Score: #"
 - Fixed a communication problem with the socket on the client's side
