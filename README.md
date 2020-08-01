@@ -43,7 +43,7 @@ Client:
   
   - The tagger is twice as fast as the other people, and the runners have abilites with a cooldown timer above them, so gameplay is more dynamic. 
   
-  The abilities are as follows:
+  - The abilities are as follows:
   
         1: extra speed
         2: invisiblity
