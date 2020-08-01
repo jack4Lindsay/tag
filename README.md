@@ -2,7 +2,7 @@
 An online multiplayer game of tag.
 
 NOTE: You need Oracle's JDK 14 downloaded to run these .jar files. Here is a link to the download:
-
+https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 
 
 Tag (first named "netGame") originally was a practice range for network programming as I began to develop more network-based software.
