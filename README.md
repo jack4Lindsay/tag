@@ -1,7 +1,12 @@
 # Tag
 An online multiplayer game of tag.
 
-NOTE: You need Oracle's JDK 14 downloaded to run these .jar files. Here is a link to the download:
+NOTE: You need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) 14 downloaded to run these .jar files. 
+
+Here are the links to the downloads (8/1/2020):
+
+https://www.java.com/en/download/
+
 https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
 
 
