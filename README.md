@@ -74,3 +74,4 @@ for proper combatibility, for example a server with version number 1.0 can be us
 - Fixed a communication problem with the socket on the client's side
 - Players that are invisible can no longer be tagged (Should've had this happen in the first place, makes much more sense)
 - Added a kick-up animation to the running of the player's character, as if they're running so fast that they're kicking up something
+- Made it so that once you disconnect from the server, all other players that were visible disappear (Again, this should've been a feature already, sorry!)
