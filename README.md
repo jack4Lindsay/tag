@@ -23,8 +23,7 @@ Server:
   - The limit of players on the server is only limited by the hardware. In the code, the number of sockets can be changed before starting the server,
   and this can set the amount of people that can join.
   
-  - A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in (only occurs when there is one or less
-  people connected to the server, so that this process does not cause network latency)
+  - A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in
   
   - You are able to put in 5 commands (so far): 
   
