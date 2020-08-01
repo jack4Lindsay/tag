@@ -55,7 +55,7 @@ Client:
 
 We now have version numbers! Here are the notes on what has happened for each version put out:
 
-NOTE: The version numbers for the server and client programs don't need to be the exact same. The first number for each version number has to be the same
+NOTE: The version numbers for the server and client programs don't need to be the exact same. Only the first number for each version number has to be the same
 for proper combatibility, for example a server with version number 1.0 can be used with clients that have a version number of 1.2, 1.0, or 1.5, but not 2.3.
 
 1.0:
