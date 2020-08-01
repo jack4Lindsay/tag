@@ -54,11 +54,23 @@ Client:
         
 We now have version numbers! Here are the notes on what has happened for each version put out:
 
+NOTE: The version numbers for the server and client programs don't need to be the exact same. The first number for each version number has to be the same
+for proper combatibility, for example a server with version number 1.0 can be used with clients that have a version number of 1.2, 1.0, or 1.5, but not 2.3.
+
 1.0:
 
 - First full version of Tag, complete with three map variants and a group of characters to choose from
-- Score system, if you are the tagger when the round ends, you lose a point. Each client starts with 3
+- Score system, if you are the tagger when the round ends, you lose a point. Each player starts with 3
 - Key to press to show more information, such as rules, abilities, controls
 - Much more refined server program that allows for better intake of other clients's data (helped immensely with latency)
 - Abilities only reset their amounts per round, instead of (accidentally) resetting whenever you became the tagger during any given game
 - A secret...
+
+1.2:
+
+- Fixed the game timer so that when it gets to single digits it doesn't display it weirdly (Props to TheLegitDrummer for pointing it out)
+- Added 4 player skins and changed a few skins as well
+- Added in a game over message for when the player runs out of lives. Also, the box that displays your score now says "Lives: #" rather than "Score: #"
+- Fixed a communication problem with the socket on the client's side
+- Players that are invisible can no longer be tagged (Should've had this happen in the first place, makes much more sense)
+- Added a kick-up animation to the running of the player's character, as if they're running so fast that they're kicking up something
