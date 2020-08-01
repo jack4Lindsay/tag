@@ -49,7 +49,10 @@ Client:
         2: invisiblity
         3: tiny-ness
         4: teleport to a random NPC on the map
-\n\n\n\n
+
+
+
+
 We now have version numbers! Here are the notes on what has happened for each version put out:
 
 NOTE: The version numbers for the server and client programs don't need to be the exact same. The first number for each version number has to be the same
