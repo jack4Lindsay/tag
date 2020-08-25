@@ -64,7 +64,8 @@ Client:
 We now have version numbers! Here are the notes on what has happened for each version put out:
 
 NOTE: The version numbers for the server and client programs don't need to be the exact same. Only the first number for each version number has to be the same
-for proper combatibility, for example a server with version number 1.0 can be used with clients that have a version number of 1.2, 1.0, or 1.5, but not 2.3.
+for proper combatibility, for example a server with version number 1.0 can be used with clients that have a version number of 1.2, 1.0, or 1.5, but not 2.3. However,
+it is strongly advised to always use the latest updated versions of both programs for maximum compatibility.
 
 1.0:
 
@@ -85,3 +86,15 @@ the game timer 4 minutes long instead of 5, games felt a bit too long
 - Players that are invisible can no longer be tagged (Should've had this happen in the first place, makes much more sense)
 - Added a kick-up animation to the running of the player's character, as if they're running so fast that they're kicking up something
 - Made it so that once you disconnect from the server, all other players that were visible disappear (Again, this should've been a feature already, sorry!)
+
+2.0:
+
+- Added Knights and Dragons as outfits
+- Added a loading screen at the beginning after pressing ENTER
+- Created a host system between the clients and the server, so that the first person in the match is the host. The host will have the ability to start the match
+once there are enough players to play. This was a good step because before you could only start the match by doing so from the command line through the server
+- Added a stunned effect once someone has become the tagger, so that the other players have a moment to get away
+- Fixed some buggy movement glitches, where if you were double speed or the tagger you could break the barrier formed around the map occasionally, thus messing
+up the data being sent to the server for your client
+- Updated the coordinate system to be more intuitive, and players are started at the center of the map now instead of the bottom right corner
+- Began negating the kick-up animation for characters that fly or levitate (right now only dragons and spacemen)
