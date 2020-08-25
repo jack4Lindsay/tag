@@ -89,7 +89,7 @@ the game timer 4 minutes long instead of 5, games felt a bit too long
 
 2.0:
 
-- Added Knights and Dragons as outfits
+- Added knights and dragons as outfits
 - Added a loading screen at the beginning after pressing ENTER
 - Created a host system between the clients and the server, so that the first person in the match is the host. The host will have the ability to start the match
 once there are enough players to play. This was a good step because before you could only start the match by doing so from the command line through the server
@@ -98,3 +98,4 @@ once there are enough players to play. This was a good step because before you c
 up the data being sent to the server for your client
 - Updated the coordinate system to be more intuitive, and players are started at the center of the map now instead of the bottom right corner
 - Began negating the kick-up animation for characters that fly or levitate (right now only dragons and spacemen)
+- Changed the server messages to be a little prettier when printed in the command line
