@@ -99,3 +99,4 @@ up the data being sent to the server for your client
 - Updated the coordinate system to be more intuitive, and players are started at the center of the map now instead of the bottom right corner
 - Began negating the kick-up animation for characters that fly or levitate (right now only dragons and spacemen)
 - Changed the server messages to be a little prettier when printed in the command line
+- Found and fixed two small things that help tremendously with runtime speed
