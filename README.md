@@ -20,7 +20,7 @@ Server:
   - Must be ran in the command line. A pretty GUI may come in the future, but for now that focus has been put
   on the client. Port-fowarding on port 44440 may be necessary depending on your network (Usually is necessary).
   
-  - The limit of players on the server is only limited by the hardware. In the code, the number of sockets can be changed before starting the server,
+  - The limit of players on the server is only limited by the hardware. In the source code, the number of sockets can be changed,
   and this can set the amount of people that can join.
   
   - A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in
