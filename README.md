@@ -112,9 +112,17 @@ fixed in version 2.0, but I have made some tweaks here to make sure it is smooth
 double tagging to happen, props to XKainerX, Sentience, and Its_Jamt for helping with this and being good test rats! (just kidding, their test mice,
 much more sophisticated)
 
-3.12:
+3.1:
 
 - Added a halloween killer outfit! Also very slightly changed the Santa outfit
 - Added arrows that are togglable to show other runners's locations. It only will display for other runners, otehrwise the tagger would have a huge leg up!
 this just allows people to be able to group up more or avoid other players to avoid attention
 - Added another box that shows up for the controls, showing the controls for toggling the arrow locators and for starting a game as the host
+
+3.5:
+
+- Added police officers as outfits. Chase down the killer! Thanks to (Lenny_Face) for the suggestion of the skin and emote #1
+- Added points and the shop! Skins are no longer all free, you have to build up points to purchase them. The player gets points by tagging others and
+using their abilities while in-game
+- With the addition of the shop, the save feature has been added! Press V to save your information, such as your points and the skins you have unlocked
+- Added new text to the Show More menu outlining the new things the player can do, and rearranged some of the pop-ups to look smoother with the layout
