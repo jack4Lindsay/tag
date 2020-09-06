@@ -104,7 +104,7 @@ up the data being sent to the server for your client
 3.0:
 
 - Added elves and Santa as outfits
-- Added player numbers, but they are only visible if the other player is not invisible or tiny (having the number above their head when their invisible
+- Added player numbers, but they are only visible if the other player is not invisible or tiny (having the number above their head when they're invisible
 or tiny would give them away!)
 - Fixed movement at the boundary of the map, sometimes the player would go too far if they were double speed or the tagger. The main problem of this was
 fixed in version 2.0, but I have made some tweaks here to make sure it is smooth and what it should be
