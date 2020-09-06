@@ -122,8 +122,8 @@ this just allows people to be able to group up more or avoid other players to av
 3.5:
 
 - Added police officers as outfits. Chase down the killer! Thanks to (Lenny_Face) for the suggestion of the skin and emote #1
-- Added points and the shop! Skins are no longer all free, you have to build up points to purchase them. The player gets points by tagging others and
+- Added coins and the shop! Skins are no longer all free, you have to earn coins to purchase them. The player gets coins by tagging others and
 using their abilities while in-game
-- With the addition of points, a point box was added to the top right of the screen to show you how many coins you have
-- With the addition of the shop, the save feature has been added! Press V to save your information, such as your points and the skins you have unlocked
+- With the addition of coins, a coin box was added to the top right of the screen to show you how many coins you have
+- With the addition of the shop, the save feature has been added! Press V to save your information, such as your coins and the skins you have unlocked
 - Added new text to the Show More menu outlining the new things the player can do, and rearranged some of the pop-ups to look smoother with the layout
