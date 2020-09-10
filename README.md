@@ -125,3 +125,12 @@ using their abilities while in-game
 - With the addition of coins, a coin box was added to the top right of the screen to show you how many coins you have
 - With the addition of the shop, the save feature has been added! Press V to save your information, such as your coins and the skins you have unlocked
 - Added new text to the Show More menu outlining the new things the player can do, and rearranged some of the pop-ups to look smoother with the layout
+
+3.6:
+
+- Added 10 new outfits, trolls, chefs, and mad scientists
+- Added an animation for the drop-down alert along with reshaping that alert to look more like other screen boxes
+- Added an animation for when the player gets coins
+- Adjusted the randomization of the map selection from the seed given by the server so that other maps can be selected more often (before it was usually 
+if not always the first map)
+- Another secret...
