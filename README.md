@@ -128,7 +128,7 @@ using their abilities while in-game
 
 3.6:
 
-- Added 10 new outfits, trolls, chefs, and mad scientists
+- Added 10 new outfits: trolls, chefs, and mad scientists
 - Added an animation for the drop-down alert along with reshaping that alert to look more like other screen boxes
 - Added an animation for when the player gets coins
 - Adjusted the randomization of the map selection from the seed given by the server so that other maps can be selected more often (before it was usually 
