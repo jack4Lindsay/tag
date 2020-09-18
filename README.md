@@ -136,3 +136,12 @@ using their abilities while in-game
 - Adjusted the randomization of the map selection from the seed given by the server so that other maps can be selected more often (before it was usually 
 if not always the first map)
 - Another secret...
+
+3.7:
+
+- ATTENTION - The save file was changed in this update from "player.txt" to "tagData.txt". Please rename your file if necessary, and keep the file in the
+same directory as the .jar file of Tag
+
+- Added gnome skins
+- All skins now have names in the shop, slightly changed the layout of the shop panels when characters are purchased
+- The window is now resizable, shoutout to Sentience for testing
