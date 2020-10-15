@@ -145,3 +145,9 @@ same directory as the .jar file of Tag
 - Added gnome skins
 - All skins now have names in the shop, slightly changed the layout of the shop panels when characters are purchased
 - The window is now resizable, shoutout to Sentience for testing
+
+4.0:
+
+- Now a 12-player game!
+- Fixed a painting to window process that helped processing time
+- Made it so that scrolling through the shop is faster, props to robotbroadcast for the tip!
