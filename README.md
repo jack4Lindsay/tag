@@ -7,7 +7,7 @@ Here are the links to the downloads (as of 1/3/2021):
 
 https://www.java.com/en/download/
 
-https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+https://www.oracle.com/java/technologies/downloads/
 
 In order for these downloads to be effective, be sure to run them once they've been downloaded.
 
