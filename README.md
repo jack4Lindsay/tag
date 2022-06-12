@@ -56,7 +56,7 @@ Client:
         3: mist effect (affects tagger only)
         4: teleport to a random location
 
-INSTALLER LINK FOR CLIENT VERSION 5.0:
+WINDOWS x64 INSTALLER LINK FOR CLIENT VERSION 5.0:
 https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
 
 
