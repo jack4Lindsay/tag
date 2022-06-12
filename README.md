@@ -56,6 +56,9 @@ Client:
         3: mist effect (affects tagger only)
         4: teleport to a random location
 
+INSTALLER LINK FOR CLIENT VERSION 5.0:
+https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
+
 
 Version Notes:
 
@@ -160,4 +163,4 @@ same directory as the .jar file of Tag
 - The teleportation ability is no longer based on map objects / NPCs. You will be teleported to a random location on the map rather than a random object
 - The tiny ability has been changed to the mist effect! The mist effect puts a thick mist around the tagger, lowering their chances of seeing a runner
 - More points are given for using abilities and for tagging. We have to buy those skins somehow!
-- CUSTOM IMPORTING! I am very excited to say that there is now a custom importing process for Tag. This allows you to import custom map objects, custom skins, and a custom map if you wish. There will soon be a link here to a document that will explain how to create a custom file
+- CUSTOM IMPORTING! I am very excited to say that there is now a custom importing process for Tag. This allows you to import custom map objects, custom skins, and a custom map if you wish. See the custom importing PDF file for more information.
