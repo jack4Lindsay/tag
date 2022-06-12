@@ -22,9 +22,6 @@ Server:
   - Must be ran in the command line. A pretty GUI may come in the future, but for now that focus has been put
   on the client. Port-fowarding on port 44440 may be necessary depending on your network (Usually is necessary).
   
-  - The limit of players on the server is only limited by the hardware. In the source code, the number of sockets can be changed,
-  and this can set the amount of people that can join.
-  
   - A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in
   
   - You are able to put in 5 commands (so far): 
@@ -38,18 +35,17 @@ Server:
   
 Client:
 
-  - Initially you are prompted to input the IP of the server you wish to connect to, which you may type in and press ENTER to initiate a connection. If you simply wish to play
-  the game without anyone else, you can leave the line blank, press ENTER and explore on your own!
+  - If you press SHIFT you will be prompted to input the IP of the server you wish to connect to, which you may type in and press ENTER to initiate a connection
 
   - Run around as sheep \ people \ objects with WASD
   
-  - Meet up with friends in a very wide coordinate space, which is speckled with NPCs all generated randomly but synchronously on all clients, so you all see the same things
+  - Meet up with friends in a wide coordinate space, which is speckled with objects with which you can hide behind / below
   
   - Change your outfit with the left and right arrow keys
   
-  - Use each outfit's emotes by pressing 1 or 2 (more to come hopefully)
+  - Use each outfit's emotes by pressing 1 or 2
   
-  - Press SHIFT to end your connection to the server and properly exit the application
+  - Press 'O' to end your connection to the server
   
   - The tagger is twice as fast as the other people, and the runners have abilites with a cooldown timer above them, so gameplay is more dynamic. 
   
@@ -57,8 +53,8 @@ Client:
   
         1: extra speed
         2: invisiblity
-        3: tiny-ness
-        4: teleport to a random NPC on the map
+        3: mist effect (affects tagger only)
+        4: teleport to a random location
 
 
 Version Notes:
@@ -151,3 +147,17 @@ same directory as the .jar file of Tag
 - Now a 12-player game!
 - Fixed a painting to window process that helped processing time
 - Made it so that scrolling through the shop is faster, props to robotbroadcast for the tip!
+
+5.0:
+
+- ATTENTION - The save file was changed from "tagData.txt" to "save.tag". Please rename your save file if necessary
+- General optimization of networking processes
+- Changed a few skins
+- Map and map objects reworked! Only one map now, however this can change... (see final bullet point)
+- Collision process has been moved to the server
+- Changed the GUI and key bindings
+- Number boxes on players removed
+- The teleportation ability is no longer based on map objects / NPCs. You will be teleported to a random location on the map rather than a random object
+- The tiny ability has been changed to the mist effect! The mist effect puts a thick mist around the tagger, lowering their chances of seeing a runner
+- More points are given for using abilities and for tagging. We have to buy those skins somehow!
+- CUSTOM IMPORTING! I am very excited to say that there is now a custom importing process for Tag. This allows you to import custom map objects, custom skins, and a custom map if you wish. There will soon be a link here to a document that will explain how to create a custom file
