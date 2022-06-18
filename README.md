@@ -1,7 +1,11 @@
 # Tag
+
+WINDOWS x64 INSTALLER LINK FOR CLIENT VERSION 5.0:
+https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
+
 An online multiplayer game of tag.
 
-NOTE: You need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) 18 downloaded to run these .jar files. 
+NOTE: You need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) 18 downloaded to run these .jar files
 
 Here are the links to the downloads (as of 6/11/2022):
 
@@ -55,9 +59,6 @@ Client:
         2: invisiblity
         3: mist effect (affects tagger only)
         4: teleport to a random location
-
-WINDOWS x64 INSTALLER LINK FOR CLIENT VERSION 5.0:
-https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
 
 
 Version Notes:
