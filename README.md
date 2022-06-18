@@ -19,7 +19,7 @@ Tag now has server and client programs, which do the following:
 
 Server:
 
-  - Must be ran in the command line. A pretty GUI may come in the future, but for now that focus has been put
+  - Must be ran from the command line. A pretty GUI may come in the future, but for now that focus has been put
   on the client. Port-fowarding on port 44440 may be necessary depending on your network (Usually is necessary).
   
   - A socket-recycling algorithm that helps to clear out the closed sockets and make room for the new ones coming in
