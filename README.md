@@ -4,7 +4,7 @@
 An online multiplayer game of tag!
 
 
-## Installation:
+## Installation
 
 WINDOWS x64 INSTALLER LINK FOR CLIENT VERSION 5.0:
 https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
@@ -67,7 +67,7 @@ Client:
         4: teleport to a random location
 
 
-## Version Notes:
+## Version Notes
 
 NOTE: The version numbers for the server and client programs don't need to be the exact same. Only the first number for each version number has to be the same
 for proper combatibility, for example a server with version number 1.0 can be used with clients that have a version number of 1.2, 1.0, or 1.5, but not 2.3. However,
