@@ -1,11 +1,15 @@
 # Tag
 
+
+An online multiplayer game of tag!
+
+
+## Installation:
+
 WINDOWS x64 INSTALLER LINK FOR CLIENT VERSION 5.0:
 https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
 
-An online multiplayer game of tag.
-
-NOTE: You need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) 18 downloaded to run these .jar files
+If you choose to run the .jar files directly, you will need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) version 18
 
 Here are the links to the downloads (as of 6/11/2022):
 
@@ -15,6 +19,8 @@ https://www.oracle.com/java/technologies/downloads/
 
 In order for these downloads to be effective, be sure to run them once they've been downloaded.
 
+
+## Gameplay
 
 Tag (first named "netGame") originally was a practice range for network programming as I began to develop more network-based software.
 However, it has changed into something much more than that!
@@ -61,7 +67,7 @@ Client:
         4: teleport to a random location
 
 
-Version Notes:
+## Version Notes:
 
 NOTE: The version numbers for the server and client programs don't need to be the exact same. Only the first number for each version number has to be the same
 for proper combatibility, for example a server with version number 1.0 can be used with clients that have a version number of 1.2, 1.0, or 1.5, but not 2.3. However,
