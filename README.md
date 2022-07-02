@@ -160,7 +160,7 @@ same directory as the .jar file of Tag
 
 5.0:
 
-- ATTENTION - The save file was changed from "tagData.txt" to "save.tag". Please rename your save file if necessary. ALSO: The save.tag file is saved to the directory where the game is, and this is different depending on your installation. If you have only the .jar file, then you have nothing to worry about! However, if you've used the Windows installer file, it will install Tag to C:\Program Files\tag5.0\, and the game has a hard time saving to this directory. In order to fix this, create a blank save.tag file, and place it in this directory. The problem is the game cannot CREATE the file in that folder, but if you create it manually and place it in the folder then it has no problem writing to it.
+- ATTENTION - The save file was changed from "tagData.txt" to "save.tag". Please rename your save file if necessary. ALSO: The save.tag file is saved to the directory where the game is, and this is different depending on your installation. If you have only the .jar file, then you have nothing to worry about! However, if you've used the Windows installer, it will install Tag to C:\Program Files\tag5.0\, and the game has a hard time saving to this directory. In order to fix this, create a blank save.tag file, and place it in this directory. The problem is the game cannot CREATE the file in that folder, but if you create it manually and place it in the folder then it has no problem writing to it.
 - General optimization of networking processes
 - Changed a few skins
 - Map and map objects reworked! Only one map now, however this can change... (see final bullet point)
