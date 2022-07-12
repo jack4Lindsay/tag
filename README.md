@@ -9,6 +9,8 @@ An online multiplayer game of tag!
 WINDOWS x64 INSTALLER LINK FOR CLIENT VERSION 5.0:
 https://drive.google.com/file/d/1KTs0Dm4LO-fyqe71uFrMmOianntrJzdg/view?usp=sharing
 
+PLEASE NOTE: If you use the installer, please take a look at the notes for version 5.0 below, otherwise you may not be able to save correctly!
+
 If you choose to run the .jar files directly, you will need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) version 18
 
 Here are the links to the downloads (as of 6/11/2022):
