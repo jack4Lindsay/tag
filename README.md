@@ -173,3 +173,9 @@ same directory as the .jar file of Tag
 - The tiny ability has been changed to the mist effect! The mist effect puts a thick mist around the tagger, lowering their chances of seeing a runner
 - More points are given for using abilities and for tagging. We have to buy those skins somehow!
 - CUSTOM IMPORTING! I am very excited to say that there is now a custom importing process for Tag. This allows you to import custom map objects, custom skins, and a custom map if you wish. See the custom importing PDF file for more information.
+
+
+** Testing
+
+WINDOWS x64 INSTALLER LINK FOR TESTING CLIENT VERSION 5.0.1:
+https://drive.google.com/file/d/13634uqqONaUazUQ14l3jr6BhwiltygHI/view?usp=share_link
