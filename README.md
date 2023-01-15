@@ -13,7 +13,7 @@ PLEASE NOTE: If you use the installer, please take a look at the notes for versi
 
 If you choose to run the .jar files directly, you will need the consumer version of Java installed along with Oracle's JDK (Java Development Kit) version 18
 
-Here are the links to the downloads (as of 6/11/2022):
+Here are the links to the downloads (as of 1/15/2023):
 
 https://www.java.com/en/download/
 
