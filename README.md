@@ -179,5 +179,7 @@ same directory as the .jar file of Tag
 
 Testing
 
-WINDOWS x64 INSTALLER LINK FOR TESTING CLIENT VERSION 5.0.1:
-https://drive.google.com/file/d/13634uqqONaUazUQ14l3jr6BhwiltygHI/view?usp=share_link
+The testing versions are indicated by a 3rd digit in the version number. For example, 5.0 is a stable version, while 5.0.1 is a testing version. Testing versions are not guarenteed to work with any particular version other than its own!
+
+WINDOWS x64 INSTALLER LINK FOR TESTING CLIENT VERSION 5.0.2:
+https://drive.google.com/file/d/1cuz8ogrXWKwAYMNhxk3-wc5BaBSQ6tO_/view?usp=sharing
